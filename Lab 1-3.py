@@ -3,8 +3,8 @@ b = [2023, 15000, "Pitchayatida"]   #List
 c = (2023, 15000, "Pitchayatida")   #Tuple
 d = {1:2023, 'salary':15000, "name":"Pitchayatida"} #Dictionary
 
-b[1] = 25000
-d['salary']= 35000
+#b[1] = 25000
+#d['salary']= 35000
 
 print(a)
 print(b)
